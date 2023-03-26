@@ -8,9 +8,9 @@ In this study, we propose a novel Batch Bayesian Optimization method with adapti
 
 This code is implemented under Window 10 and Python 3.8 environment.
 
-To set up the required environment, firstly install packages in 'requirements.txt'.
+To set up the required environment, install the packages in 'requirements.txt' first.
 
-Then, find the package of 'platypus' in your environment (the path should be Your_env_path/Lib/site-packages/platypus), and replace the file 'algorithms.py' and 'core.py' with our provided ones. This is because we have done some modification to the package's source code to fix the replication solutions bug.
+Then, find the package of 'platypus' in your environment (the path should be Your_env_path/Lib/site-packages/platypus), and replace the file 'algorithms.py' and 'core.py' with our provided ones. The reason for this is that we have made modifications to the source code of the package in order to resolve a bug related to replication solutions.
 
 # License
 
@@ -22,7 +22,7 @@ This work is supported by the National Natural Science Foundation of China (Gran
 
 # Citation
 
-If you find this work or code helpful in your project, please cite
+If you find this work or code helpful for your project, please cite
 
 ```
 
