@@ -25,6 +25,13 @@ This work is supported by the National Natural Science Foundation of China (Gran
 If you find this work or code helpful for your project, please cite
 
 ```
-
+@article{chen2023batch,
+  title={Batch Bayesian Optimization with adaptive batch acquisition functions via multi-objective optimization},
+  author={Chen, Jixiang and Luo, Fu and Li, Genghui and Wang, Zhenkun},
+  journal={Swarm and Evolutionary Computation},
+  pages={101293},
+  year={2023},
+  publisher={Elsevier}
+}
 ```
 
